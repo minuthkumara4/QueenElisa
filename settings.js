@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QRKZWaFFjSHJWQZhkaoRDeEdjdGlXR4I3dGVDe0NWZxoWVBVzcoNmZwM3ajIlWZh2QwIVRpwd=08004281749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -17,23 +17,23 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-® ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+  ALIVE_MEDIA: 'https://telegra.ph/file/75fa0e10e066eea6c4faf.jpg',
+  MONGODB_URL: 'mongodb+srv://lucibot958:<db_password>@cluster0.4kr54.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: '𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-®',
+  OWNER_NAME: 'MINUTH KAUSHALYA',
+  OWNER_NUMBER: '94728631354',
+  SUDO: '94740412225,94741877721',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
-  REMOVE_BG_APIKEY: '',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-®',
+  STICKER_AUTHOR: '𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-®',
+  STICKER_PACK: 'MiNuTh',
+  REMOVE_BG_APIKEY: 'bLdaGfjAH7yQnDNwLKcgdLoZ',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,

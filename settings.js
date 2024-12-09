@@ -55,7 +55,7 @@ module.exports = {
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
-  BUTTON_MESSAGES: false,
+  BUTTON_MESSAGES: true,
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
